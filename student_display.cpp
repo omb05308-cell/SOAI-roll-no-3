@@ -4,7 +4,7 @@ int main()
 {
 	int roll1, roll2, roll3, roll4, roll5;
 	
-	cout<<"Enter the first roll no of the studdent: ";
+	cout<<"Enter the first roll no of the student: ";
 	cin>>roll1;
 	cout<<"Enter the second roll no of the student: ";
 	cin>>roll2;
